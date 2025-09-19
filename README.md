@@ -1,2 +1,2 @@
-# smh-detection
-AI-based project to detect social media addiction and provide offline activity recommendations for improving mental health.
+#Influence Of Social Media On Mental Health
+The exponential rise of social media usage has created growing concerns about its effects on mental health, productivity, and overall well-being. This project leverages Artificial Intelligence (AI) and machine learning to detect social media addiction by analyzing user activity patterns. Data is gathered from surveys and optional mobile app usage logs, capturing metrics like daily hours, notification frequency, session counts, and night-time activity. AI-driven feature extraction identifies behavioral, engagement, and time-based indicators. Users are classified as “Addicted” or “Not Addicted” using Logistic Regression, Random Forest, and LSTM models. An interactive AI-powered dashboard delivers addiction risk scores and personalized digital wellness recommendations.
